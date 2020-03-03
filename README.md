@@ -1,3 +1,3 @@
 # Puzzle game 2048
 
-![Alt text](Game.jpg?raw=true "Title")
+![Alt text](Game.jpg)
